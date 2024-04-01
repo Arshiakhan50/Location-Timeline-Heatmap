@@ -1,6 +1,24 @@
-## Map your Google Location History
+## Project Overview
 
-A simple python web app to visualise your Google location history. Similar to [Google Map's Timeline](https://www.google.com/maps/timeline) but gives a prettier and more comprehensive picture.
+- **Backend Development:**
+  - Utilized REST APIs and Python libraries including Flask, Shapely, and Pandas for backend development, 
+  dynamic data processing, and efficient routing.
+
+- **Frontend Design:**
+  - Designed the dynamic website using Figma to create an intuitive and visually appealing user interface.
+  - Employed templating techniques for dynamic functionality, enabling real-time updates based on user input and data changes.
+
+- **Responsive Design:**
+  - Implemented Bootstrap, CSS, and JavaScript to enhance responsiveness and provide a rich set of features.
+  - Enabled dynamic interactions across various devices and screen sizes for an optimal user experience.
+
+- **Mapping Integration:**
+  - Integrated Leaflet, an open-source mapping library, to embed interactive maps seamlessly into the application.
+  - Facilitated visualization of geographical data, offering users an immersive and informative experience.
+
+- **Overall Impact:**
+  - Showcases a harmonious blend of modern technologies and design principles.
+  - Resulted in a sophisticated web application that is both functional and visually captivating.
 
 ![](demo.gif)
 
