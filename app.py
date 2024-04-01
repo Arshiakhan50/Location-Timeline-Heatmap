@@ -13,7 +13,7 @@ def index():
 
 @app.route("/data")
 def get_data():
-    with open('input/location_sample.json') as data_file:
+    with open('location/location_sample.json') as data_file:
         return json.load(data_file)
 
 if __name__ == "__main__":
