@@ -17,9 +17,10 @@ samples the data to reduce the file size. This may take a few minutes.
 
 You need the following framework and libraries:
 
-- **Framework**: Flask
+- **Framework**: ![Flask](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - **Python Libraries**:
   - Pandas
   - Shapely
-  - REST API
-  - Javascript
+- **Frontend**:
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+
