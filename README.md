@@ -26,10 +26,10 @@ samples the data to reduce the file size. This may take a few minutes.
 
 You need the following framework and libraries:
 
-- **Framework**: ![Flask](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- **Framework**: ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - **Python Libraries**:
   - Pandas
-  - Flask
+  - Flask ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   - Shapely
 - **Frontend**:
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
