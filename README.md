@@ -4,10 +4,6 @@ A simple python web app to visualise your Google location history. Similar to [G
 
 ![](demo.gif)
 
-## Dependencies
-
-You need ```Python``` libraries: ```Pandas```, ```Flask```, ```Shapely```.
-
 ## How to run
 
 1. Install all Python dependencies.
@@ -16,3 +12,14 @@ You need ```Python``` libraries: ```Pandas```, ```Flask```, ```Shapely```.
 4. From the input folder, run ```python sample_location.py```. This matches points to countries and
 samples the data to reduce the file size. This may take a few minutes.
 5. From the root folder, run ```python app.py```.
+
+## Frameworks and Libraries
+
+You need the following framework and libraries:
+
+- **Framework**: Flask
+- **Python Libraries**:
+  - Pandas
+  - Shapely
+  - REST API
+  - Javascript
