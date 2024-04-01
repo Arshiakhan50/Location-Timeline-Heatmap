@@ -1,25 +1,16 @@
 ## Project Overview
-
+This project is a web application with Python backend that visualizes your Google location history. It displays a timeline of your location data and showcases a heatmap of your activity.
 - **Backend Development:**
   - Utilized REST APIs and Python libraries including Flask, Shapely, and Pandas for backend development, 
   dynamic data processing, and efficient routing.
 
 - **Frontend Design:**
   - Designed the dynamic website using Figma to create an intuitive and visually appealing user interface.
-  - Employed templating techniques for dynamic functionality, enabling real-time updates based on user input and data changes.
-
-- **Responsive Design:**
-  - Implemented Bootstrap, CSS, and JavaScript to enhance responsiveness and provide a rich set of features.
-  - Enabled dynamic interactions across various devices and screen sizes for an optimal user experience.
+  - Employed templating techniques for dynamic functionality, HTML, CSS and javascript for interactive elements.
 
 - **Mapping Integration:**
   - Integrated Leaflet, an open-source mapping library, to embed interactive maps seamlessly into the application.
-  - Facilitated visualization of geographical data, offering users an immersive and informative experience.
-
-- **Overall Impact:**
-  - Showcases a harmonious blend of modern technologies and design principles.
-  - Resulted in a sophisticated web application that is both functional and visually captivating.
-
+  - Utilized GeoJSON data to display location history and heatmap layers on the map.
 ![](demo.gif)
 
 ## How to run
