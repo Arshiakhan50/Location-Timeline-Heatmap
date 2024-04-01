@@ -15,9 +15,9 @@ This project is a web application with Python backend that visualizes your Googl
 
 ## How to run
 
-1. Install all Python dependencies.
+1. Install all Python dependencies. I.e ```pip install -r requirements.txt```.
 2. Download your Location History data from [Google Takeout](https://takeout.google.com/settings/takeout).
-3. Save ```LocationHistory.json``` in the ```input``` folder.
+3. Save ```LocationHistory.json``` in the ```location``` folder.
 4. From the input folder, run ```python sample_location.py```. This matches points to countries and
 samples the data to reduce the file size. This may take a few minutes.
 5. From the root folder, run ```python app.py```.
